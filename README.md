@@ -1,0 +1,2 @@
+# SeqGAN
+Tensorflow SeqGAN
